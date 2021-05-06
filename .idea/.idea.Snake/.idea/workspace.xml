@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a1a6cd2-9afd-424f-8ba9-3cc1f31cd8d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Through the universes/Assets/MainHero.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MoveCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Crystal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Deleter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SnakeBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Through the universes/Assets/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/MoveCamera.cs" />
+      <option value="$PROJECT_DIR$/Assets/SnakeBody.cs" />
+      <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Man.cs" />
+      <option value="$PROJECT_DIR$/Assets/Crystal.cs" />
+      <option value="$PROJECT_DIR$/Assets/Snake.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/ColorChange.cs" />
+      <option value="$PROJECT_DIR$/Assets/Deleter.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1rtOUQEzr1dn9d4zqTV2Vvc0sks" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1a6cd2-9afd-424f-8ba9-3cc1f31cd8d8" name="Default Changelist" comment="" />
+      <created>1619791968902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619791968902</updated>
+      <workItem from="1619792000410" duration="1664000" />
+      <workItem from="1619793705540" duration="1786000" />
+      <workItem from="1619795525092" duration="1797000" />
+      <workItem from="1620039772118" duration="1702000" />
+      <workItem from="1620041998291" duration="1790000" />
+      <workItem from="1620044316398" duration="685000" />
+      <workItem from="1620046187318" duration="1148000" />
+      <workItem from="1620049121289" duration="1091000" />
+      <workItem from="1620050266689" duration="1787000" />
+      <workItem from="1620052119841" duration="1592000" />
+      <workItem from="1620054035359" duration="1780000" />
+      <workItem from="1620055850894" duration="1324000" />
+      <workItem from="1620057798653" duration="1290000" />
+      <workItem from="1620064204320" duration="1687000" />
+      <workItem from="1620066376068" duration="599000" />
+      <workItem from="1620068415813" duration="771000" />
+      <workItem from="1620072118774" duration="1445000" />
+      <workItem from="1620153368720" duration="1160000" />
+      <workItem from="1620290563337" duration="1054000" />
+      <workItem from="1620295992061" duration="1397000" />
+      <workItem from="1620304301090" duration="1715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
