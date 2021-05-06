@@ -1,20 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a1a6cd2-9afd-424f-8ba9-3cc1f31cd8d8" name="Default Changelist" comment="" />
+    <list default="true" id="2a1a6cd2-9afd-424f-8ba9-3cc1f31cd8d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Color change.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Color change.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorChange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorChange.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/59/5931725bda72d710299a19ebba5a74d5.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/59/5931725bda72d710299a19ebba5a74d5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/PrefabStageHierarchy/20/2005833ea5349b08aed57c53f12a7a2b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/PrefabStageHierarchy/20/2005833ea5349b08aed57c53f12a7a2b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/38/3846e57d359e125f707d58c2dc3be524.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/38/3846e57d359e125f707d58c2dc3be524.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/50/509b0a49ad4e0b401eb5bb348d1896f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/50/509b0a49ad4e0b401eb5bb348d1896f4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/5.6.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/5.6.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/launcher/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/libs/unity-classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/proguard-unity.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/Assembly-CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/Mono.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Drawing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Transactions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/Managed/netstandard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/unityLibrary/src/main/assets/bin/Data/data.unity3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Through the universes/Assets/MainHero.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MoveCamera.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Crystal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Deleter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SnakeBody.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Through the universes/Assets/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -28,9 +101,12 @@
       <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/ColorChange.cs" />
       <option value="$PROJECT_DIR$/Assets/Deleter.cs" />
+      <option value="$PROJECT_DIR$/Assets/TurnOn.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ColorChange.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rtOUQEzr1dn9d4zqTV2Vvc0sks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,6 +147,7 @@
       <workItem from="1620290563337" duration="1054000" />
       <workItem from="1620295992061" duration="1397000" />
       <workItem from="1620304301090" duration="1715000" />
+      <workItem from="1620312849451" duration="1555000" />
     </task>
     <servers />
   </component>

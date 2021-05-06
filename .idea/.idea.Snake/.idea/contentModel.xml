@@ -6,15 +6,18 @@
     <e p="C:\Users\александр\Desktop\Snake" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="ColorChange.cs" t="Include" />
-        <e p="Crystal.cs" t="Include" />
-        <e p="Deleter.cs" t="Include" />
-        <e p="Enemy.cs" t="Include" />
-        <e p="GameManager.cs" t="Include" />
-        <e p="Man.cs" t="Include" />
-        <e p="MoveCamera.cs" t="Include" />
-        <e p="Snake.cs" t="Include" />
-        <e p="SnakeBody.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ColorChange.cs" t="Include" />
+          <e p="Crystal.cs" t="Include" />
+          <e p="Deleter.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Man.cs" t="Include" />
+          <e p="MoveCamera.cs" t="Include" />
+          <e p="Snake.cs" t="Include" />
+          <e p="SnakeBody.cs" t="Include" />
+        </e>
+        <e p="TurnOn.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />

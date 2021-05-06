@@ -6,6 +6,7 @@ public class ColorChange : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameManager _gameManager;
+    public Renderer Father;
 
     void Start()
     {
@@ -17,8 +18,8 @@ public class ColorChange : MonoBehaviour
         if ((!collider.isTrigger && collider.tag == "Player") || (collider.isTrigger && collider.tag == "Body"))
         {
 
-            collider.gameObject.GetComponent<Renderer>().material = gameObject.GetComponent<Renderer>().material;
-            collider.gameObject.GetComponent<Renderer>().material.name = gameObject.GetComponent<Renderer>().material.name;
+            collider.gameObject.GetComponent<Renderer>().material = Father.material;
+            collider.gameObject.GetComponent<Renderer>().material.name = Father.material.name;
             StartCoroutine(Immortality());
 
         }
