@@ -605,4 +605,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Snake.apk
+  playerPath: D:/Snake/Snake.apk

@@ -43,14 +43,14 @@ public class GameManager : MonoBehaviour
         GameObject[] body = GameObject.FindGameObjectsWithTag("Body");
         for (int i = 0; i < body.Length; i++)
             body[i].GetComponent<SnakeBody>().FeverMultiplier = 3;
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSecondsRealtime(5);
         snake.Fever = false;
         snake.fev.enabled = false;
         snake.def.enabled = true;
         for (int i = 0; i < body.Length; i++)
             body[i].GetComponent<SnakeBody>().FeverMultiplier = 1;
         speed /= 3;
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSecondsRealtime(0.5f);
         InFever = false;
         
         yield break;
@@ -63,7 +63,7 @@ public class GameManager : MonoBehaviour
 
     public IEnumerator CrystalStreak()
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSecondsRealtime(2);
         FeverCount = 0;
         yield break;
     }

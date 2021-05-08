@@ -30,7 +30,7 @@ public class ColorChange : MonoBehaviour
         if (!_gameManager.InFever)
         {
             _gameManager.InFever = true;
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSecondsRealtime(0.05f);
             _gameManager.InFever = false;
             
         }

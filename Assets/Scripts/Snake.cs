@@ -31,7 +31,7 @@ public class Snake : MonoBehaviour
                 if (Fever)
                 {
                     transform.position = Vector3.MoveTowards(transform.position, new Vector3(center, manager.PlayerPosition.y,
-                        manager.PlayerPosition.z - 8.21f), 0.5f);
+                        manager.PlayerPosition.z - 8.21f), 1f);
                 }
                 else
                 {

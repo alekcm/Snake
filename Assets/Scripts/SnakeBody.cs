@@ -8,6 +8,7 @@ public class SnakeBody : MonoBehaviour
     public SnakeBody Tail;
     private Vector3 MoveTo;
     public int FeverMultiplier = 1;
+    private float distance;
     
     // Start is called before the first frame update
     void Start()
@@ -19,16 +20,17 @@ public class SnakeBody : MonoBehaviour
     {
         
         MoveTo = Head.position;
-        yield return new WaitForSeconds(0.001f);
+        yield return new WaitForSecondsRealtime(0.002f);
         StartCoroutine(MoveToObject());
         yield break;
     }
     // Update is called once per frame
+ 
     void FixedUpdate()
-    {
-        var distance = (MoveTo - transform.position).magnitude;
-        transform.position = Vector3.MoveTowards(transform.position, MoveTo, distance/Time.deltaTime/51*FeverMultiplier);
-        transform.rotation = Quaternion.LookRotation(MoveTo - transform.position, Vector3.up);
+    {   distance = (Head.position - transform.position).magnitude;
+        transform.rotation = Quaternion.LookRotation(Head.position - transform.position, Vector3.up);
+        transform.position = Vector3.MoveTowards(transform.position, Head.position, distance/1.5f*FeverMultiplier);
+        
         
 
     }
