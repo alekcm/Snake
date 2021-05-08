@@ -22,7 +22,7 @@ public class Snake : MonoBehaviour
         center = (Left.position.x + Right.position.x) / 2;
     }
 
-    void Update() {
+    void FixedUpdate() {
        
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
@@ -35,7 +35,7 @@ public class Snake : MonoBehaviour
                 }
                 else
                 {
-                    transform.position = Vector3.MoveTowards(transform.position, hit.point, 0.5f);
+                    transform.position = Vector3.MoveTowards(transform.position, hit.point, 1f);
                     transform.position = new Vector3(transform.position.x, manager.PlayerPosition.y,
                         manager.PlayerPosition.z - 8.21f);
                     if (transform.position.x < manager.LeftBoard.position.x + 1)

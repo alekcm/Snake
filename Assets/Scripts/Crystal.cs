@@ -17,10 +17,10 @@ public class Crystal : MonoBehaviour
         if (_gameManager == null)
             _gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
-    void Update()
+    void FixedUpdate()
     {
         if (target!=null)
-            transform.position = Vector3.MoveTowards(transform.position, target.position, 0.2f);
+            transform.position = Vector3.MoveTowards(transform.position, target.position, 0.6f);
     }
     void OnTriggerEnter(Collider collider)
     {

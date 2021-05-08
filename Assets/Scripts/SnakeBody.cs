@@ -24,11 +24,12 @@ public class SnakeBody : MonoBehaviour
         yield break;
     }
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         var distance = (MoveTo - transform.position).magnitude;
-        transform.position = Vector3.MoveTowards(transform.position, MoveTo, distance/Time.deltaTime/1200*FeverMultiplier);
+        transform.position = Vector3.MoveTowards(transform.position, MoveTo, distance/Time.deltaTime/51*FeverMultiplier);
         transform.rotation = Quaternion.LookRotation(MoveTo - transform.position, Vector3.up);
+        
 
     }
     
